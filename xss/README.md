@@ -494,3 +494,11 @@ form.submit()
 </body>
 ```
 8. Click Store and Deliver exploit to victim. The user's email will be changed to ``hacker@evil-user.net``.
+
+
+
+
+
+
+
+by abdelaati

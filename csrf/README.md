@@ -217,3 +217,12 @@ Referrer-Policy: unsafe-url
 ```
 7. Note that unlike the normal Referer header, the word "referrer" must be spelled correctly in this case.
 Store the exploit, then click "Deliver to victim" to solve the lab.
+
+
+
+
+
+
+
+
+by: abdelaati
